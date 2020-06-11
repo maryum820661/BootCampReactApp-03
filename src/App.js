@@ -23,7 +23,7 @@ class App extends Component {
 
            id:1,
            name:'Going to the Office',
-           description:"I have to go the office at 9:00 AM to earn bread and butter for my children",
+           description:"I have to go the office at 9:00 AM to earn bread and Butter for my children",
            assigned:"Father"
           }
           ,
